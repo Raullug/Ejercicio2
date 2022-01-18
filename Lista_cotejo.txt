@@ -6,3 +6,5 @@ apio
 sandia
 papa
 ajo
+
+manzana
